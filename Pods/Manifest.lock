@@ -1,0 +1,24 @@
+PODS:
+  - MKSpinner (1.4)
+  - SVProgressHUD (2.2.5)
+  - SwiftHEXColors (1.1.2)
+
+DEPENDENCIES:
+  - MKSpinner
+  - SVProgressHUD
+  - SwiftHEXColors
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - MKSpinner
+    - SVProgressHUD
+    - SwiftHEXColors
+
+SPEC CHECKSUMS:
+  MKSpinner: 342cc7f8fbb365dd139a8ad28a0a987cca440a3a
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftHEXColors: 7f9f7e6bdce888d821e11749279733e5ddff5f51
+
+PODFILE CHECKSUM: 7aad5401b5b53f5b39a1dec987a6b28d53d3fa78
+
+COCOAPODS: 1.5.3
